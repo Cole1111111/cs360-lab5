@@ -1,0 +1,1 @@
+welcome<?php /**PATH C:\xampp\htdocs\lab5\resources\views/welcome.blade.php ENDPATH**/ ?>
